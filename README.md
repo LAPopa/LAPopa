@@ -51,10 +51,10 @@ I'm working on becoming a Full-Stack Developer, studying at the Codecool Academy
 - Microservices (and more)
 
 ### :rainbow: When I'm not coding I...:
--Play video games
--Paint/draw
--Bake
--Make my own cosmetics/perfumes
--Researching new app ideas
+- Play video games
+- Paint/draw
+- Bake
+- Make my own cosmetics/perfumes
+- Researching new app ideas
 
 
