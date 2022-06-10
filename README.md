@@ -55,6 +55,6 @@ I'm working on becoming a Full-Stack Developer, studying at the Codecool Academy
 - Paint/draw
 - Bake
 - Make my own cosmetics/perfumes
-- Researching new app ideas
+- Research new app ideas
 
 
