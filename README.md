@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Laura !
 
-I'm working on becoming a Full-Stack Developer, studying at the Codecool Academy. With a passion for finding ways to solve day to day challenges through programming, I'm currently focused on learning how to build responsive, sensible web applications. I'm always eager to learn something new and expand my network - working together makes everything better !
+After studying at the Codecool Academy I'm working on refining and expanding my programming knowledge as a Full Stack developer. With a passion for finding ways to solve day to day challenges through programming, I'm currently focused on learning how to build responsive, sensible web applications. I'm always eager to learn something new and grow my network - working together makes everything better !
 
 ## Skill set:
 
@@ -51,7 +51,7 @@ I'm working on becoming a Full-Stack Developer, studying at the Codecool Academy
 - Microservices (and more)
 
 ### :rainbow: When I'm not coding I...:
-- Play video games
+- Play video games 
 - Paint/draw
 - Bake
 - Make my own cosmetics/perfumes
