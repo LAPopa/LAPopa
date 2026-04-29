@@ -40,21 +40,15 @@ After studying at the Codecool Academy I'm working on refining and expanding my 
 </p>
 
 
-### :computer: What I'm working on:
-- Improving my Java and Spring Boot skills
-- Wrangling Front-End tech
-- A personal project that acts as my very own playground - testing new ideas and technologies
+### :computer: :seedling: What I'm working on:
+- Learning Mendix
+- Learning Unreal Engine and Godot
+  
 
-### :seedling: What I want to learn:
-- OAuth2
-- MongoDB
-- Microservices (and more)
-
-### :rainbow: When I'm not coding I...:
+### :rainbow: When I'm not coding I ... :
 - Play video games 
-- Paint/draw
-- Bake
-- Make my own cosmetics/perfumes
+- Working on developing small games
 - Research new app ideas
+- Painting
 
 
